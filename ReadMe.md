@@ -9,6 +9,7 @@
 - [开发人员都需要一台mac](https://github.com/xuwening/blog/blob/master/%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E9%83%BD%E9%9C%80%E8%A6%81%E4%B8%80%E5%8F%B0mac.md)
 - [H5与native之间的通信](https://github.com/xuwening/blog/blob/master/H5%E4%B8%8Enative%E4%B9%8B%E9%97%B4%E7%9A%84%E9%80%9A%E4%BF%A1.md)
 - [嵌入式开发的那点儿事儿](https://github.com/xuwening/blog/blob/master/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91%E7%9A%84%E9%82%A3%E7%82%B9%E5%84%BF%E4%BA%8B%E5%84%BF.md)
+- [编程思想篇](https://github.com/xuwening/blog/blob/master/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%AF%87.md)
 
 
 
