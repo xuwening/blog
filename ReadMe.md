@@ -1,5 +1,7 @@
 # BLOG目录
 
+做了十年的软件编程，按理说会积累很多有用的知识或代码，可除了为数不多的代码得以保留，竟是没有多少沉淀，沉淀的都在脑子里，然而记忆力是最不靠谱的一种方式。随着年岁增大，很多东西都忘掉了，深刻检讨自身的陋习，决定把能回忆的赶快记下来。
+
 - [理解javascript对象、Function和原型](https://github.com/xuwening/blog/blob/master/mdFile/%E7%90%86%E8%A7%A3javascript%E5%AF%B9%E8%B1%A1%E3%80%81Function%E5%92%8C%E5%8E%9F%E5%9E%8B.md)
 - [聊聊我所接触过的编程语言](https://github.com/xuwening/blog/blob/master/mdFile/%E8%81%8A%E8%81%8A%E6%88%91%E6%89%80%E6%8E%A5%E8%A7%A6%E8%BF%87%E7%9A%84%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80.md)
 - [后端架构演变](https://github.com/xuwening/blog/blob/master/mdFile/%E5%90%8E%E7%AB%AF%E6%9E%B6%E6%9E%84%E6%BC%94%E5%8F%98.md)
