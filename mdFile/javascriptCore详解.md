@@ -2,9 +2,9 @@
 
 ## 前言
 
-javascriptCore 的开放，使得用户可直接操作 js 与 native
+ios7带来的新特性之一就是开放 javascriptCore接口，在此之前， js 与 native 之间的交互都是通过在页面插入隐藏的 iframe 标签，然后重写 webView 监听事件实现。
 
-## 目录
+现在有了新的方式，纵然官方对动态库有签名机限制，但配合 OC 运行时修改特性，也能玩出很多花来。例如 facebook 的 react native，例如 jspatch 等。
 
 ## 核心类和协议
 
@@ -227,8 +227,6 @@ js 语言机制本身并不支持并发执行，所以想要提高 js 并行能�
 
 	JSContext *context=[webView valueForKeyPath:@"documentView.webView.mainFrame.javaScriptContext"];
 
-## 后记
 
-有了 javascriptCore接口的开放，纵然没有官方对动态库签名机制的开放，配合 OC 运行时修改特性，也能玩出很多花来。例如 facebook 的 react native，例如 jspatch 等。
 
 
