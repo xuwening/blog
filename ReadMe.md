@@ -13,6 +13,7 @@
 - [嵌入式开发的那点儿事儿](https://github.com/xuwening/blog/blob/master/mdFile/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91%E7%9A%84%E9%82%A3%E7%82%B9%E5%84%BF%E4%BA%8B%E5%84%BF.md)
 - [编程思想篇](https://github.com/xuwening/blog/blob/master/mdFile/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%AF%87.md)
 - [javascriptCore 详解](https://github.com/xuwening/blog/blob/master/mdFile/javascriptCore%E8%AF%A6%E8%A7%A3.md)
+- [一个优秀的技术管理者多么难](https://github.com/xuwening/blog/blob/master/mdFile/%E4%B8%80%E4%B8%AA%E4%BC%98%E7%A7%80%E7%9A%84%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86%E8%80%85%E5%A4%9A%E4%B9%88%E9%9A%BE.md)
 
 
 
