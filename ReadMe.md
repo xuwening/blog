@@ -15,6 +15,6 @@
 - [javascriptCore 详解](https://github.com/xuwening/blog/blob/master/mdFile/javascriptCore%E8%AF%A6%E8%A7%A3.md)
 - [一个优秀的技术管理者多么难](https://github.com/xuwening/blog/blob/master/mdFile/%E4%B8%80%E4%B8%AA%E4%BC%98%E7%A7%80%E7%9A%84%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86%E8%80%85%E5%A4%9A%E4%B9%88%E9%9A%BE.md)
 - [objc语言的运行时特性](https://github.com/xuwening/blog/blob/master/mdFile/objc%E8%AF%AD%E8%A8%80%E7%9A%84%E8%BF%90%E8%A1%8C%E6%97%B6%E7%89%B9%E6%80%A7.md)
-
+- [技术书籍推荐](https://github.com/xuwening/blog/blob/master/mdFile/%E6%8A%80%E6%9C%AF%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90.md)
 
 
