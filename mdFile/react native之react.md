@@ -38,7 +38,7 @@ var con1 = React.createClass({
 <con1 name="aqua"/>
 ```
 
-创建和使用组件都很简单，采用JSX的语法使得语法更简洁。
+创建和使用组件都很简单，采用JSX的语法使得语法更简洁。render是渲染函数，返回需要渲染的数据。
 
 ## react参数传递
 
@@ -79,6 +79,18 @@ React.createClass({
 });
 
 ```
+
+## 组件生命周期
+
+生命周期管理给使用者提供组件各个周期的回调接口，可根据需要做些自定义设置。
+
+* getInitialState，组件被加载之前调用，返回组件的初始状态
+* componentWillMount，组件在加载时调用
+* componentDidMount，组件加载完毕时调用
+* conponentWillUnmount,组件被卸载时调用
+
+上面是最常用的，还有其他生命周期回调，如componentWillUpdate和componentDidUpdate等。
+
 
 ## 总结
 
