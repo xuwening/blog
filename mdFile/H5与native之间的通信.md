@@ -20,7 +20,7 @@ H5与native之间的桥梁是javascript解释器，webkit中就是javascriptCore
 
 这里我们着重讨论第2点。webview在ios、wp、android上均有执行js的方法，那么本地接口调用js方法就有了。js调用本地方法就要麻烦一些，因为要考虑夸平台。
 
-* android可通过javascriptCore方式直接调用
+* android可通过loadUrl方式调用
 * wp可通过window.external.notify的方式调用
 * ios可通过location方式调用
 
@@ -106,6 +106,4 @@ location调用传参会有很多限制，ios7之后开放javascriptCore接口，
 
 在线升级部署在ios侧还没有成熟的解决方案，原因在于官方没有开放二进制运行加载（当然，官方永远不可能开放）。所以大部分方案都采用曲线方式，但无论哪种方式，只能承载app的部分功能，整个app完全采用js方式，假如是外包项目可以尝试，产品嘛就算了。
 
-
-## 
 
