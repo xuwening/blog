@@ -14,7 +14,7 @@
 
 代码地址： [objc_runtime](https://github.com/xuwening/code-snippet/tree/master/objc_runtime)
 
-代码里注视已经描述了基本运行时，大家可以直接源码里看。
+代码里的注释已经描述了基本运行时，大家可以直接源码里看。
 
 ## 运行时要点
 
