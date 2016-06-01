@@ -159,7 +159,43 @@ javascript中Function也是对象，是特殊的一种对象，理解起来有�
 ##结论
 到这里就差不多了，这里只是提出一个理解javascript的思路，抛砖引玉，按照这种方式理解，那么应该会很快掌握javascript的核心概念，当然，既然是抽象，肯定就有不完备之处。当初之所以这么理解，是因为个人更喜欢站在语言实现的角度考虑问题，希望没有误人子弟。
 
-## 后记
+## 更新
 
 文中原型所述勘误：生成一个对象默认__proto__属性值为一个Object对象，不是空对象。
+
+原型对象与函数对象关系图：
+
+![](media/14482424909186/js_prototype.png)
+
+prototype与__proto__属性的区别：
+
+prototype是函数才具有的属性，由函数创建的所有对象的__proto__都指向函数的prototype,__proto__是对象具有的属性，是用来描述继承关系，也就是原型链。
+
+由上图可知：`其实有两条原型链，一条应用于所有对象，一条应用于函数对象。`
+
+1.  给所有函数对象添加属性和方法（实例对象不具有）：
+
+	`Function.prototype.color = 'white';`
+
+	或任何其他函数的__proto__:
+	
+	`Object.__proto__.color = 'white';`
+
+	然后查看任意函数对象是否具有该属性：
+
+	`console.log(setTimeout.color);`
+
+	然后查看实例对象是不具有该属性的：
+
+	```js
+	var o = {};
+	console.log(o.color);
+	```
+
+2.  给所有对象添加属性和方法：
+
+	`Object.prototype`是所有对象的根源，所以给该原型上添加属性或函数，所有对象均具有。
+
+	Object.prototype.color = 'white';
+
 
