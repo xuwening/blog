@@ -20,5 +20,6 @@
 - [react native之javascript](https://github.com/xuwening/blog/blob/master/mdFile/React%20Native%E4%B9%8Bjavascript.md)
 - [技术学习路线](https://github.com/xuwening/blog/blob/master/mdFile/%E6%8A%80%E6%9C%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.md)
 - [react native之flexbox](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8Bflexbox.md)
+- [react native之require](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8Brequire.md)
 
 
