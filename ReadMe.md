@@ -21,5 +21,6 @@
 - [技术学习路线](https://github.com/xuwening/blog/blob/master/mdFile/%E6%8A%80%E6%9C%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.md)
 - [react native之flexbox](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8Bflexbox.md)
 - [react native之require](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8Brequire.md)
+- [react native之OC与js交互](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8BOC%E4%B8%8Ejs%E4%BA%A4%E4%BA%92.md)
 
 
