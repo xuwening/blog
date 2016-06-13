@@ -1,11 +1,11 @@
 
-## react native之OC与js之间交互
+# react native之OC与js之间交互
 
 ## OC与js交互的基础知识
 
-之前的[H5与native之间的通信]()中提到两者交互的一般方式，主要针对iOS早期版本的兼容。在iOS7及之后的版本中，官方开放了javascriptCore API，使得OC与js交互简单方便，同时也强大了许多。iOS7之前js到OC的调用，是通过URl进行传递，在数据类型以及传递的数据长度上有很大限制，但使用javascriptCore就不存在这些问题。
+之前的[H5与native之间的通信](https://github.com/xuwening/blog/blob/master/mdFile/H5%E4%B8%8Enative%E4%B9%8B%E9%97%B4%E7%9A%84%E9%80%9A%E4%BF%A1.md)中提到两者交互的一般方式，主要针对iOS早期版本的兼容。在iOS7及之后的版本中，官方开放了javascriptCore API，使得OC与js交互简单方便，同时也强大了许多。iOS7之前js到OC的调用，是通过URl进行传递，在数据类型以及传递的数据长度上有很大限制，但使用javascriptCore就不存在这些问题。
 
-react native就是使用的javascriptCore方式，所以在分析react native之前，有必要了解javascriptCore的具体使用方法，可以参考[javascriptCore详解]()。
+react native就是使用的javascriptCore方式，所以在分析react native之前，有必要了解javascriptCore的具体使用方法，可以参考[javascriptCore详解](https://github.com/xuwening/blog/blob/master/mdFile/javascriptCore%E8%AF%A6%E8%A7%A3.md)。
 
 ## react naitve中的交互思想
 
@@ -233,6 +233,8 @@ Object.keys(RemoteModules).forEach((moduleName) => {
 }
 ```
 
+***注意的onComplete方法，每次oc调用都会把js测的调用缓存获取回来执行，提高性能。***
+
 可以看见从js全局中获取__fbBatchedBridge对象，然后调用该对象上的方法并获取返回值，在看看工程中有三处调用了该方法：
 
 ```objective-c
@@ -291,12 +293,17 @@ Object.keys(RemoteModules).forEach((moduleName) => {
   }
 ```
 
+
 而__fbBatchedBridge是在BatchedBridge.js中定义：
 
 ```js
 //BatchedBridge.js
 Object.defineProperty(global, '__fbBatchedBridge', { value: BatchedBridge });
 ```
+
+***flushedQueue返回的结果是调用缓存，对应上面的onComplete的参数。***
+
+到此，oc调用js流程已经走通了。
 
 上面这两个接口用于模块调用，还有几个接口是用于事件分发的，即将native的事件传递给js，让js具有处理事件的能力。
 
