@@ -24,5 +24,6 @@
 - [react native之OC与js交互](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8BOC%E4%B8%8Ejs%E4%BA%A4%E4%BA%92.md)
 - [react native之模块](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8B%E6%A8%A1%E5%9D%97.md)
 - [react native之事件](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8B%E4%BA%8B%E4%BB%B6.md)
+- [react native之线程](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8B%E7%BA%BF%E7%A8%8B.md)
 
 
