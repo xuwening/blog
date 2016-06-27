@@ -23,7 +23,7 @@ module.exports = function(file, opts) {
 }
 ```
 
-从这段代码中基本可以看出思路：按照js文件作为模块划分，require一个模块就是加载一个js文件，让模块的作用域局限在module变量中。
+从这段代码中基本可以看出思路：按照js文件作为模块划分，require一个模块就是加载一个js文件，让模块的作用域局限在module对象中。
 
 ***注意：node.js和react native都实现了require.js，代码要从node.js中找。***
 

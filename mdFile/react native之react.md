@@ -46,11 +46,17 @@ var con1 = React.createClass({
 
 `props`是个js对象，对应原生就是dict，具体如何通过属性传递到props中，由react来处理，用户不必关心。
 
+以`<con1 name="aqua"/>`为例，所有参数都通过组件属性传递给具体组件，`name="aqua"`就是传递的一个参数，react会自动将这些参数封装在props中，组件`con1`内部可以直接通过`props.name`来获取组件名称值。如果参数过于复杂就封装成对象传递过去。
+
 ## react组件状态管理
 
 所谓状态`state`，即UI更新原则，只有`state`发生改变时才出发UI更新。
 
-这个`state`是人为约束，也就是说状态是由用户管理的，而非react。react只是提出状态管理的概念和接口，遵循靠用户。
+以客户端首页为例：
+
+![](./media/react/component.png)
+
+这个`state`是人为约束，也就是说状态的变化是由用户管理的，而非react。react只是对状态进行管理和监控，当监控到状态发生改变时，通知UI进行更新。
 
 之所以有状态这个概念，是因为react的理念是单向数据流，即v和m是单向绑定，v的更新都是通过m来操作。这里存在一个问题：用户可以直接操作UI控件，双向绑定的做法是v反过来更新m，react是通过UI事件监控来更新m，所以要处理好v到m的状态管理。
 
@@ -89,7 +95,7 @@ React.createClass({
 * componentDidMount，组件加载完毕时调用
 * conponentWillUnmount,组件被卸载时调用
 
-上面是最常用的，还有其他生命周期回调，如componentWillUpdate和componentDidUpdate等。
+上面是最常用的，还有其他生命周期回调，如componentWillUpdate和componentDidUpdate等。通过这些生命周期函数，使用者可以最大范围控制组件的各种形态。
 
 
 ## 总结

@@ -248,7 +248,7 @@ _genMethod(module, method, type) {
 
 ## js调用native方法的具体流程
 
-已简单调用举例，如调用系统的振动功能：
+以简单调用举例，如调用系统的振动功能：
 
 ```js
 Vibration.vibrate();
