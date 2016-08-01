@@ -27,5 +27,7 @@
 - [react native之线程](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8B%E7%BA%BF%E7%A8%8B.md)
 - [react native之WebView中注入js接口（jsBridge）](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8BWebView%E4%B8%AD%E6%B3%A8%E5%85%A5js%E6%8E%A5%E5%8F%A3.md)
 - [UITextField和UITextView输入长度的限制](https://github.com/xuwening/blog/blob/master/mdFile/UITextField%E5%92%8CUITextView%E8%BE%93%E5%85%A5%E9%95%BF%E5%BA%A6%E7%9A%84%E9%99%90%E5%88%B6.md)
+- [react-native动态修改server host](https://github.com/xuwening/blog/blob/master/mdFile/react-native%E5%8A%A8%E6%80%81%E4%BF%AE%E6%94%B9%E8%BF%9C%E7%A8%8B%E5%9C%B0%E5%9D%80.md)
+- [react native之App集成以及高度自适应](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8BApp%E9%9B%86%E6%88%90%E4%BB%A5%E5%8F%8A%E9%AB%98%E5%BA%A6%E8%87%AA%E9%80%82%E5%BA%94.md)
 
 
