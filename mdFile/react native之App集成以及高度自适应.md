@@ -34,7 +34,7 @@ react native使用node.js作为工程集成环境，包管理使用npm工具，�
 }
 ```
 
-当前目录就回创建node_modules，react native所有依赖项都存在此目录中。
+当前目录就会创建node_modules，react native所有依赖项都存在此目录中。
 
 使用cocoapods集成比较方便：
 
