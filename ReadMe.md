@@ -30,5 +30,5 @@
 - [react-native动态修改server host](https://github.com/xuwening/blog/blob/master/mdFile/react-native%E5%8A%A8%E6%80%81%E4%BF%AE%E6%94%B9%E8%BF%9C%E7%A8%8B%E5%9C%B0%E5%9D%80.md)
 - [react native之App集成以及高度自适应](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8BApp%E9%9B%86%E6%88%90%E4%BB%A5%E5%8F%8A%E9%AB%98%E5%BA%A6%E8%87%AA%E9%80%82%E5%BA%94.md)
 - [那些能提高你工作效率的命令](https://github.com/xuwening/blog/blob/master/mdFile/%E9%82%A3%E4%BA%9B%E8%83%BD%E6%8F%90%E9%AB%98%E4%BD%A0%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%E7%9A%84%E5%91%BD%E4%BB%A4.md)
-- [google-diff-match库介](https://github.com/xuwening/blog/blob/master/mdFile/google-diff-match%E5%BA%93%E4%BB%8B%E7%BB%8D.md)
+- [google-diff-match库介绍](https://github.com/xuwening/blog/blob/master/mdFile/google-diff-match%E5%BA%93%E4%BB%8B%E7%BB%8D.md)
 - [react native之增量更新](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8B%E5%A2%9E%E9%87%8F%E6%9B%B4%E6%96%B0.md)
