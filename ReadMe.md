@@ -32,3 +32,4 @@
 - [那些能提高你工作效率的命令](https://github.com/xuwening/blog/blob/master/mdFile/%E9%82%A3%E4%BA%9B%E8%83%BD%E6%8F%90%E9%AB%98%E4%BD%A0%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%E7%9A%84%E5%91%BD%E4%BB%A4.md)
 - [google-diff-match库介绍](https://github.com/xuwening/blog/blob/master/mdFile/google-diff-match%E5%BA%93%E4%BB%8B%E7%BB%8D.md)
 - [react native之增量更新](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8B%E5%A2%9E%E9%87%8F%E6%9B%B4%E6%96%B0.md)
+- [react native之环境管理](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8B%E7%8E%AF%E5%A2%83%E7%AE%A1%E7%90%86.md)
