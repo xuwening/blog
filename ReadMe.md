@@ -33,3 +33,4 @@
 - [google-diff-match库介绍](https://github.com/xuwening/blog/blob/master/mdFile/google-diff-match%E5%BA%93%E4%BB%8B%E7%BB%8D.md)
 - [react native之增量更新](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8B%E5%A2%9E%E9%87%8F%E6%9B%B4%E6%96%B0.md)
 - [react native之环境管理](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8B%E7%8E%AF%E5%A2%83%E7%AE%A1%E7%90%86.md)
+- [再谈技术管理](https://github.com/xuwening/blog/blob/master/mdFile/%E5%86%8D%E8%B0%88%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86.md)
