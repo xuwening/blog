@@ -199,3 +199,10 @@ prototype是函数才具有的属性，由函数创建的所有对象的__proto_
 	Object.prototype.color = 'white';
 
 
+__proto__原则上是私有属性，不允许直接操作。也就是说，在new 一个对象时，解析器会自动处理__proto__属性。而程序可控属性是prototype，也就是说，程序通过操作prototype来控制对象间的__proto__原型链。
+
+
+
+
+
+
