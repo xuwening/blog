@@ -35,3 +35,4 @@
 - [react native之环境管理](https://github.com/xuwening/blog/blob/master/mdFile/react%20native%E4%B9%8B%E7%8E%AF%E5%A2%83%E7%AE%A1%E7%90%86.md)
 - [再谈技术管理](https://github.com/xuwening/blog/blob/master/mdFile/%E5%86%8D%E8%B0%88%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86.md)
 - [理解 javascript 中的 this 以及 bind](https://github.com/xuwening/blog/blob/master/mdFile/%E7%90%86%E8%A7%A3%20javascript%20%E4%B8%AD%E7%9A%84%20this%20%E4%BB%A5%E5%8F%8A%20bind.md)
+- [redux 原理解析](https://github.com/xuwening/blog/blob/master/mdFile/redux%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90.md)
