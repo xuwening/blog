@@ -250,6 +250,12 @@ export default function combineReducers(reducers) {
 
 所谓合并，其实是把reducer 列表保存一份，并返回一个遍历reducer 列表调用的函数`combination(state = {}, action)`，可以看出该函数与 reducer 的函数原型一致。所以`createStore`函数中`dispatch`调用的函数就是`combination`，当调用 dispatch 分发Action 时，会遍历所有真正的 reducer，更新 state。
 
+因此，合并reducer其实并非真实合并，只是重新包裹函数，达到合并reducer的效果，其中有两个关键：
+
+1. 创建一个reducer作为dispatch的入口函数，用来代理所有分散的reducer。
+3. 创建一个state作为总状态，其包裹所有reducer对应的state。
+
+
 到这里，redux 的整体流程就走通了，剩下的`applyMiddleware`和`bindActionCreators`是做什么用的，后面再说。
 
 ## redux 存在的问题
