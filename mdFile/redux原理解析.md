@@ -188,6 +188,7 @@ export default function createStore(reducer, preloadedState, enhancer) {
 `createStore`只能将一个 reducer 和 state 绑定，实际项目需要对 reducer 做拆分，有利于工程模块化、易维护。因此，在实际工程中做reducer 拆分，`createStore`时做动态合并。
 
 先看下实际工程目录：
+
 ![](media/14999333800962/14999435940963.jpg)
 
 为了导入多个 reducer，也使用文件夹方式，需要在文件夹中建立`index.js`：
