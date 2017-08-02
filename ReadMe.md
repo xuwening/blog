@@ -36,3 +36,4 @@
 - [再谈技术管理](https://github.com/xuwening/blog/blob/master/mdFile/%E5%86%8D%E8%B0%88%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86.md)
 - [理解 javascript 中的 this 以及 bind](https://github.com/xuwening/blog/blob/master/mdFile/%E7%90%86%E8%A7%A3%20javascript%20%E4%B8%AD%E7%9A%84%20this%20%E4%BB%A5%E5%8F%8A%20bind.md)
 - [redux 原理解析](https://github.com/xuwening/blog/blob/master/mdFile/redux%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90.md)
+- [SVG 基础及码表动画实现](https://github.com/xuwening/blog/blob/master/mdFile/svg/SVG%20%E5%9F%BA%E7%A1%80%E5%8F%8A%E7%A0%81%E8%A1%A8%E5%8A%A8%E7%94%BB%E5%AE%9E%E7%8E%B0.md)
