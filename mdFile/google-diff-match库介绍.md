@@ -5,7 +5,7 @@
 
 全名是google diff match patch，是谷歌根据[Myer's diff algorithm](https://neil.fraser.name/software/diff_match_patch/myers.pdf)论文实现的一套差异比较工具。目前实现了的语言版本有`Java, JavaScript, Dart, C++, C#, Objective C, Lua and Python`。
 
-项目地址是：https://code.google.com/p/google-diff-match-patch/，一看就知道需要翻墙，等你翻墙了发现项目失效无法下载。最后在github上找到一个同步版本：https://github.com/bystep15/google-diff-match-patch。
+项目地址是：[google-diff-match-patch](https://code.google.com/p/google-diff-match-patch/)，一看就知道需要翻墙，等你翻墙了发现项目失效无法下载。最后在github上找到一个同步版本：[github](https://github.com/bystep15/google-diff-match-patch)。
 
 下载下来代码，可以先看demo目录下的三个demo，大致了解该库的三个核心功能：
 
