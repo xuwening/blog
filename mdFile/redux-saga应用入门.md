@@ -9,11 +9,11 @@ redux-saga用于管理redux异步操作的中间件。
 
 首先，我们先回顾一下redux的应用架构：
 
-![](media/15047772128324/15047775994845.jpg)
+![](media/saga/15047775994845.jpg)
 
 再来看下saga在redux中所处的位置：
 
-![](media/15047772128324/15047780675197.jpg)
+![](media/saga/15047780675197.jpg)
 
 可以看到，saga是在dispatch(action)和reducer之间插入一层，对action进行拦截处理（针对异步操作，如网络请求），再转发到reducer。
 
@@ -115,8 +115,6 @@ effect combinator:
 
 * race 只要有一个effect执行完毕返回
 * all 所有effect执行完毕返回
-
-## 待续。。。
 
 
 
