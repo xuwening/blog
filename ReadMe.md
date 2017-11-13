@@ -42,3 +42,4 @@
 - [javascript数组与字符串的妙用](https://github.com/xuwening/blog/blob/master/mdFile/javascript%E6%95%B0%E7%BB%84%E4%B8%8E%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%A6%99%E7%94%A8.md)
 - [redux-saga应用入门](https://github.com/xuwening/blog/blob/master/mdFile/redux-saga%E5%BA%94%E7%94%A8%E5%85%A5%E9%97%A8.md)
 - [tensorflow中的基础概念](https://github.com/xuwening/blog/blob/master/mdFile/tensorflow%E4%B8%AD%E7%9A%84%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md)
+- [tensorflow基础概念的应用](https://github.com/xuwening/blog/blob/master/mdFile/tensorflow%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9A%84%E7%94%A8%E6%B3%95.md)
