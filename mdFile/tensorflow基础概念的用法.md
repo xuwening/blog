@@ -155,5 +155,5 @@ with tf.Session() as sess:
     print(sess.run([output], feed_dict={input1:[7.], input2: [2.]}))
 ```
 
-如果要有多组参数，可以循环调用sess.run并把参数通过`feed_dict`传递给`placeholder`。x
+如果要有多组参数，可以循环调用sess.run并把参数通过`feed_dict`传递给`placeholder`。
 
