@@ -57,7 +57,9 @@
 
 - [tensorflow中的基础概念](https://github.com/xuwening/blog/blob/master/mdFile/tensorflow%E4%B8%AD%E7%9A%84%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md)
 - [tensorflow基础概念的应用](https://github.com/xuwening/blog/blob/master/mdFile/tensorflow%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9A%84%E7%94%A8%E6%B3%95.md)
+- [零基础机器学习入门--开篇](https://github.com/xuwening/blog/blob/master/mdFile/%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8--%E5%BC%80%E7%AF%87.md)
 
 ## python
 
 - [python中的小技巧](https://github.com/xuwening/blog/blob/master/mdFile/python%E4%B8%AD%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7.md)
+
