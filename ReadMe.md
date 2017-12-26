@@ -62,6 +62,7 @@
 ## 数学基础
 
 - [数学基础之--均值、方差](https://github.com/xuwening/blog/blob/master/mdFile/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B9%8B--%E5%9D%87%E5%80%BC%E3%80%81%E6%96%B9%E5%B7%AE.md)
+- [latex数学公式](https://github.com/xuwening/blog/blob/master/mdFile/Latex%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F.md)
 
 ## python
 
