@@ -3,7 +3,7 @@
 
 用到数学符号总是从其他地方截图，一是看起来不美观，二是总依赖一堆图，还需要网络上去查找，一旦发生变更就更麻烦，索性就看了看手写数学公式的方式，发现也不复杂。于是做个笔记，方便以后查找。
 
-> fuck!  github不支持latex，请自行解决观看方式。
+> github无法解析latex，[请看这里](https://github.com/xuwening/blog/blob/master/mdFile/Latex.ipynb)
 
 ## 开始和结束符号
 
