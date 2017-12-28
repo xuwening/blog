@@ -52,6 +52,7 @@
 - [react native之SVG 基础及码表动画实现](https://github.com/xuwening/blog/blob/master/mdFile/svg/SVG%20%E5%9F%BA%E7%A1%80%E5%8F%8A%E7%A0%81%E8%A1%A8%E5%8A%A8%E7%94%BB%E5%AE%9E%E7%8E%B0.md)
 - [React Native之增量更新竞品分析](https://github.com/xuwening/blog/blob/master/mdFile/RNBundleSplit/React%20Native%E5%A2%9E%E9%87%8F%E6%9B%B4%E6%96%B0%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90.md)
 - [React Native之原理ppt](https://github.com/xuwening/blog/blob/master/mdFile/reactNative.pptx)
+- [React Native增量更新技术方案](https://github.com/xuwening/blog/blob/master/mdFile/React%20Native%E5%A2%9E%E9%87%8F%E6%9B%B4%E6%96%B0%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88.md)
 
 ## 机器学习
 
