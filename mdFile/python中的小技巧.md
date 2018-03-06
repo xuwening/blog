@@ -123,6 +123,13 @@ In [30]: random.choice(["aaa", "bbb", "ccc", "ddd"])
 Out[30]: 'bbb'
 ```
 
+#### 生成固定长度字符串
+
+```python
+In [30]: ''.join(random.sample(string.printable, 32))
+Out[30]: 'jcVeK7vQ\'"h\x0cTRDryHE&tP}_lx3(iJ.\x0b'
+```
+
 #### lambda表达式
 
 ```python
