@@ -65,7 +65,8 @@
 - [数学基础之--均值、方差](https://github.com/xuwening/blog/blob/master/mdFile/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B9%8B--%E5%9D%87%E5%80%BC%E3%80%81%E6%96%B9%E5%B7%AE.md)
 - [latex数学公式](https://github.com/xuwening/blog/blob/master/mdFile/Latex%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F.md)
 
-## 效率工具
+## 技术杂项
 
 - [python中的小技巧](https://github.com/xuwening/blog/blob/master/mdFile/python%E4%B8%AD%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7.md)
 - [抓包原理分析](https://github.com/xuwening/blog/blob/master/mdFile/%E7%BD%91%E7%BB%9C%E6%8A%93%E5%8C%85%E5%8E%9F%E7%90%86%E5%8F%8A%E5%B8%B8%E7%94%A8%E6%8A%93%E5%8C%85%E5%B7%A5%E5%85%B7.md)
+- [子网划分](https://github.com/xuwening/blog/blob/master/mdFile/%E5%AD%90%E7%BD%91%E5%88%92%E5%88%86.md)
