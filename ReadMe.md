@@ -20,6 +20,7 @@
 - [objc语言的运行时特性](https://github.com/xuwening/blog/blob/master/mdFile/objc%E8%AF%AD%E8%A8%80%E7%9A%84%E8%BF%90%E8%A1%8C%E6%97%B6%E7%89%B9%E6%80%A7.md)
 - [google-diff-match库介绍](https://github.com/xuwening/blog/blob/master/mdFile/google-diff-match%E5%BA%93%E4%BB%8B%E7%BB%8D.md)
 - [UITextField和UITextView输入长度的限制](https://github.com/xuwening/blog/blob/master/mdFile/UITextField%E5%92%8CUITextView%E8%BE%93%E5%85%A5%E9%95%BF%E5%BA%A6%E7%9A%84%E9%99%90%E5%88%B6.md)
+- [切换WiFi和4G网络](https://github.com/xuwening/blog/blob/master/mdFile/switchWifiOr4G.md)
 
 ## 技术感悟
 
