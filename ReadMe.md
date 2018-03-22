@@ -34,6 +34,7 @@
 - [技术学习路线](https://github.com/xuwening/blog/blob/master/mdFile/%E6%8A%80%E6%9C%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.md)
 - [那些能提高你工作效率的命令](https://github.com/xuwening/blog/blob/master/mdFile/%E9%82%A3%E4%BA%9B%E8%83%BD%E6%8F%90%E9%AB%98%E4%BD%A0%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%E7%9A%84%E5%91%BD%E4%BB%A4.md)
 - [再谈技术管理](https://github.com/xuwening/blog/blob/master/mdFile/%E5%86%8D%E8%B0%88%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86.md)
+- [设计模式](https://github.com/xuwening/designPattern)
 
 ## React Native
 
