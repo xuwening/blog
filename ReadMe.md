@@ -71,6 +71,8 @@
 
 - [区块链感官](https://github.com/xuwening/blog/blob/master/mdFile/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E6%84%9F%E5%AE%98.md)
 
+- [EOS开发环境搭建](https://github.com/xuwening/blog/blob/master/mdFile/EOS%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
+
 ## 技术杂项
 
 - [python中的小技巧](https://github.com/xuwening/blog/blob/master/mdFile/python%E4%B8%AD%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7.md)
