@@ -68,6 +68,12 @@ cd eos
 
 `mongod`是mangodb数据库（也就是说eos数据存储采用了mangodb），`-f`指明用哪个配置文件启动mongodb，后面是配置文件的路径。`&`意思是后台启动，不打断我们当前终端的使用。
 
+可通过`ps -ef | grep mongod`查看是否已经启动mongodb，正常启动会显示mongod的进程：
+
+```
+501 25178     1   0 11:20AM ??         3:52.69 /usr/local/bin/mongod -f /usr/local/etc/mongod.conf
+```
+
 执行测试用例：
 
 ```
