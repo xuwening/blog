@@ -72,6 +72,7 @@
 - [区块链感官](https://github.com/xuwening/blog/blob/master/mdFile/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E6%84%9F%E5%AE%98.md)
 - [EOS开发环境搭建](https://github.com/xuwening/blog/blob/master/mdFile/EOS%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
 - [加解密技术简介](https://github.com/xuwening/blog/blob/master/mdFile/%E5%8A%A0%E8%A7%A3%E5%AF%86%E6%8A%80%E6%9C%AF%E7%AE%80%E4%BB%8B.md)
+- [单向散列算法简介](https://github.com/xuwening/blog/blob/master/mdFile/%E5%8D%95%E5%90%91%E6%95%A3%E5%88%97%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B.md)
 
 ## 技术杂项
 
