@@ -74,6 +74,7 @@
 - [加解密技术简介](https://github.com/xuwening/blog/blob/master/mdFile/%E5%8A%A0%E8%A7%A3%E5%AF%86%E6%8A%80%E6%9C%AF%E7%AE%80%E4%BB%8B.md)
 - [单向散列算法简介](https://github.com/xuwening/blog/blob/master/mdFile/%E5%8D%95%E5%90%91%E6%95%A3%E5%88%97%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B.md)
 - [Merkle Tree浅析](https://github.com/xuwening/blog/blob/master/mdFile/Merkle%20Tree%E6%B5%85%E6%9E%90.md)
+- [EOS的账户系统](https://github.com/xuwening/blog/blob/master/mdFile/EOS%E7%9A%84%E8%B4%A6%E6%88%B7%E7%B3%BB%E7%BB%9F.md)
 
 ## 技术杂项
 
