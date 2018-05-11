@@ -27,8 +27,8 @@ eos大量采用了插件机制，所以这句命令的意思是启动nodeos节�
 -p 指定了节点名称
 --plugin 指定加载插件
 	wallet_api_plugin  使用nodeos管理钱包（nodeos每次关闭是都会把wallet锁定，下次必须重新解锁，才能使用钱包，加锁是加密，解锁是解密）
-	chain_api_plugin
-	account_history_api_plugin
+	chain_api_plugin 区块链接口
+	account_history_api_plugin 账户历史记录接口
 ```
 
 运行起来就是下图的样子：
