@@ -14,7 +14,7 @@ keosd   钱包管理组件
 ![](media/15245532687723/15245534079809.png)
 
 
-[上一篇]()我们用了一长串命令启动了nodeos，是个本地测试节点：
+[上一篇](https://github.com/xuwening/blog/blob/master/mdFile/EOS%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)我们用了一长串命令启动了nodeos，是个本地测试节点：
 
 ```
 nodeos -e -p eosio --plugin eosio::wallet_api_plugin --plugin eosio::chain_api_plugin --plugin eosio::account_history_api_plugin
