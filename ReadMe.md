@@ -76,7 +76,7 @@
 - [Merkle Tree浅析](https://github.com/xuwening/blog/blob/master/mdFile/Merkle%20Tree%E6%B5%85%E6%9E%90.md)
 - [EOS的账户系统](https://github.com/xuwening/blog/blob/master/mdFile/EOS%E7%9A%84%E8%B4%A6%E6%88%B7%E7%B3%BB%E7%BB%9F.md)
 - [区块链概念篇PPT](https://github.com/xuwening/blog/blob/master/mdFile/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%A6%82%E5%BF%B5%E7%AF%87.ppt)
-
+- [POW工作量证明](https://github.com/xuwening/blog/blob/master/mdFile/POW%E5%B7%A5%E4%BD%9C%E9%87%8F%E8%AF%81%E6%98%8E.md)
 
 ## 技术杂项
 
