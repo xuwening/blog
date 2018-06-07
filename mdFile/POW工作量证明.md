@@ -86,6 +86,16 @@ if __name__ == '__main__':
 
 运算到98786次才得出符合要求的散列值，需要的时间要久的多。采用此种方式还有个好处，我们调整0的个数，就可以控制计算散列值的复杂度及大概运算时间范围，可以量化。
 
+验证环节就很简单了，直接通过提供的原始数据+随机数进行sha-256，然后和限制数进行比较（为了方便，示例中直接用字符串来进行比较）：
+
+```python
+In [31]: hashlib.sha256(b'abcd' + bytes(366)).hexdigest()
+Out[31]: '0037cc3b922a68ef1c794e3971ccaa43b5acfb7178e94be93ddbeb960f456518'
+
+In [32]: '0037cc3b922a68ef1c794e3971ccaa43b5acfb7178e94be93ddbeb960f456518' < '00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF'
+Out[32]: True
+```
+
 POW的基本原理就差不多是这样了。这个单项散列计算其实就叫挖矿，运行POW的客户端、计算机或所属人就是矿工。
 
 看到这里，也许你会想有没有简单的方式可以计算出符合需求的散列值呢，比如找其规律等等。这其中有几个难点：
