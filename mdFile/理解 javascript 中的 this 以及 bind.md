@@ -143,8 +143,8 @@ function test(x, y) {
 
     var that = this;  //保存 this变量，供内部函数使用
     var f1 = function(x, y) {
-        this.x = x;
-        this.y = y;
+        that.x = x;
+        that.y = y;
     }
 
     f1(x, y);
