@@ -3,7 +3,7 @@
 ## redux-saga简介
 
 redux-saga用于管理redux异步操作的中间件。
-由于sagas采用generator创建，因此需要对generator以及promise有些了解，否则很那理解saga的思路。
+由于sagas采用generator创建，因此需要对generator以及promise有些了解，否则很难理解saga的思路。
 
 ## redux-saga在redux中的角色
 
