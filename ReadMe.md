@@ -14,6 +14,8 @@
 - [redux 原理解析](./mdFile/redux%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90.md)
 - [javascript数组与字符串的妙用](./mdFile/javascript%E6%95%B0%E7%BB%84%E4%B8%8E%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%A6%99%E7%94%A8.md)
 - [redux-saga应用入门](./mdFile/redux-saga%E5%BA%94%E7%94%A8%E5%85%A5%E9%97%A8.md)
+- [百度地图-gps地图示例](https://github.com/xuwening/mapDemo)
+
 
 ## 客户端
 
