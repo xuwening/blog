@@ -6,6 +6,7 @@
 
 - [关于创业方向的思考](./mdFile/%E5%85%B3%E4%BA%8E%E5%88%9B%E4%B8%9A%E6%96%B9%E5%90%91%E7%9A%84%E6%80%9D%E8%80%83.md)
 - [关于创业方向的实施](./mdFile/%E5%85%B3%E4%BA%8E%E5%88%9B%E4%B8%9A%E6%96%B9%E5%90%91%E7%9A%84%E5%AE%9E%E6%96%BD.md)
+- [什么是互联网思维](./mdFile/internetThinking.md)
 
 ## javascript
 
