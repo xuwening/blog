@@ -72,11 +72,9 @@
 - [tensorflow中的基础概念](./mdFile/tensorflow%E4%B8%AD%E7%9A%84%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md)
 - [tensorflow基础概念的应用](./mdFile/tensorflow%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9A%84%E7%94%A8%E6%B3%95.md)
 - [零基础机器学习入门--开篇](./mdFile/%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8--%E5%BC%80%E7%AF%87.md)
+- [均值、方差](./mdFile/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B9%8B--%E5%9D%87%E5%80%BC%E3%80%81%E6%96%B9%E5%B7%AE.md)
+- [欧几里得距离和余弦相似性](./mdFile/cosineCorrelation.md)
 
-## 数学基础
-
-- [数学基础之--均值、方差](./mdFile/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B9%8B--%E5%9D%87%E5%80%BC%E3%80%81%E6%96%B9%E5%B7%AE.md)
-- [latex数学公式](./mdFile/Latex%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F.md)
 
 ## 区块链
 
@@ -91,6 +89,7 @@
 
 ## 技术杂项
 
+- [latex数学公式](./mdFile/Latex%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F.md)
 - [python中的小技巧](./mdFile/python%E4%B8%AD%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7.md)
 - [抓包原理分析](./mdFile/%E7%BD%91%E7%BB%9C%E6%8A%93%E5%8C%85%E5%8E%9F%E7%90%86%E5%8F%8A%E5%B8%B8%E7%94%A8%E6%8A%93%E5%8C%85%E5%B7%A5%E5%85%B7.md)
 - [子网划分](./mdFile/%E5%AD%90%E7%BD%91%E5%88%92%E5%88%86.md)
