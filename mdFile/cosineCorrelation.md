@@ -3,7 +3,7 @@
 
 对于单维度数据可以用简单的均值、方差、标准差来评价，但对于多维度数据就不太合适了。例如对电影的评分，每部电影都是一个维度：
 
-```
+```python
 critics = {
     'Lisa Rose': {
         'Lady in the Water': 2.5,
@@ -50,7 +50,7 @@ critics = {
 
 公式表明本身就是针对多维坐标，因此完全不是问题，让我们来实现一下该公式。在实现公式之前，先将我们的数据格式转换一下，更好处理一些：
 
-```
+```python
 # 获取两个相比较的人的评分
 def getMatrix(critics, personOne, personTwo):
     one = critics[personOne]
@@ -68,7 +68,7 @@ def getMatrix(critics, personOne, personTwo):
 
 这样，两个人对所有评价过的电影分数用数组表示。再实现公式：
 
-```
+```python
 def euclideanDistance(critics, personOne, personTwo):
     (one, two) = getMatrix(critics, personOne, personTwo)
 
@@ -89,7 +89,7 @@ euclideanDistance(critics, 'Gene Seymour', 'Lisa Rose')
 
 代码变成下面这个样子：
 
-```
+```python
 def euclideanDistance(critics, personOne, personTwo):
     (one, two) = getMatrix(critics, personOne, personTwo)
     
@@ -121,7 +121,7 @@ euclideanDistance(critics, 'Gene Seymour', 'Lisa Rose')
 
 这个公式很好理解，写代码实现：
 
-```
+```python
 def cosineCorrelation(critics, personOne, personTwo):
     (one, two) = getMatrix(critics, personOne, personTwo)
     oneArr = np.array(one)
@@ -148,7 +148,7 @@ cos值本身就在0到1之间，所以不用自己进行转化。
 
 皮尔逊相关系数，其实就是在余弦相似性的基础上，对数据进行中心化（即数值减去均值）。也就是说先将数据中心化，然后再做余弦相似性计算，得到的就是皮尔逊相关系数。
 
-```
+```python
 def pearsonCorrelation(critics, personOne, personTwo):
     (one, two) = getMatrix(critics, personOne, personTwo)
     oneArr = np.array(one)
