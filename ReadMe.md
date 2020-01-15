@@ -76,9 +76,9 @@
 - [latex数学公式](https://nbviewer.jupyter.org/github/xuwening/blog/blob/master/mdFile/Latex.ipynb)
 - [均值、方差](./mdFile/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B9%8B--%E5%9D%87%E5%80%BC%E3%80%81%E6%96%B9%E5%B7%AE.md)
 - [欧几里得距离和余弦相似性](./mdFile/cosineCorrelation.md)
-- [NumPy运算库](./mdFile/numpyExample.ipynb)
-- [Matplot绘图](./mdFile/matplotExample.ipynb)
-- [线性回归算法](./mdFile/lineRegression.ipynb)
+- [NumPy运算库](https://nbviewer.jupyter.org/github/xuwening/blog/blob/master/mdFile/numpyExample.ipynb)
+- [Matplot绘图](https://nbviewer.jupyter.org/github/xuwening/blog/blob/master/mdFile/matplotExample.ipynb)
+- [线性回归算法](https://nbviewer.jupyter.org/github/xuwening/blog/blob/master/mdFile/lineRegression.ipynb)
 
 
 ## 区块链
