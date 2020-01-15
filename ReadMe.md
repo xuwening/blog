@@ -72,7 +72,6 @@
 - [tensorflow中的基础概念](./mdFile/tensorflow%E4%B8%AD%E7%9A%84%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md)
 - [tensorflow基础概念的应用](./mdFile/tensorflow%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E7%9A%84%E7%94%A8%E6%B3%95.md)
 - [零基础机器学习入门--开篇](./mdFile/%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8--%E5%BC%80%E7%AF%87.md)
-
 - [latex数学公式](https://nbviewer.jupyter.org/github/xuwening/blog/blob/master/mdFile/Latex.ipynb)
 - [均值、方差](./mdFile/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B9%8B--%E5%9D%87%E5%80%BC%E3%80%81%E6%96%B9%E5%B7%AE.md)
 - [欧几里得距离和余弦相似性](./mdFile/cosineCorrelation.md)
