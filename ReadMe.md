@@ -77,6 +77,7 @@
 - [欧几里得距离和余弦相似性](./mdFile/cosineCorrelation.md)
 - [NumPy运算库](https://nbviewer.jupyter.org/github/xuwening/blog/blob/master/mdFile/numpyExample.ipynb)
 - [Matplot绘图](https://nbviewer.jupyter.org/github/xuwening/blog/blob/master/mdFile/matplotExample.ipynb)
+- [pandas](https://nbviewer.jupyter.org/github/xuwening/blog/blob/master/mdFile/pandasExample.ipynb)
 - [线性回归算法](https://nbviewer.jupyter.org/github/xuwening/blog/blob/master/mdFile/lineRegression.ipynb)
 - [验证码识别](https://nbviewer.jupyter.org/github/xuwening/blog/blob/master/mdFile/recognizeVerificationCode.ipynb)
 
