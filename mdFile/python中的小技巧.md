@@ -203,6 +203,28 @@ In [34]: dict(zip(['red', 'blue'],[0x110000, 0x000011]))
 Out[34]: {'blue': 17, 'red': 1114112}
 ```
 
+#### 排序
+
+```python
+import random
+nums = [random.randint(0, 10) for i in range(5)]
+sorted(nums)
+
+keys = [''.join(random.sample(string.ascii_lowercase, 4)) for i in range(5)]
+values = nums
+dic = dict(zip(keys, values))
+sorted(dic.items())
+sorted(dic.items(), key=lambda x: x[1])
+
+dics = [
+    {'name': 'a', 'age':12, 'sex': 'female'},
+    {'name': 'b', 'age':17, 'sex': 'male'},
+    {'name': 'c', 'age':15, 'sex': 'female'},
+    ]
+sorted(dics, key=lambda item: item['age'])
+```
+
+
 #### 统计字符出现频率
 
 ```python
