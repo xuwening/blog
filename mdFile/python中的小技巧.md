@@ -286,8 +286,8 @@ Out[96]: ('/usr/home', 'test.txt')
 #### 调用shell命令
 
 ```python
-import commands 
-ret, output = commands.getstatusoutput(cmd) 
+import subprocess 
+status, result = subprocess.getstatusoutput(cmd) 
 ```
 
 #### 查看帮助
