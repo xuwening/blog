@@ -9,6 +9,7 @@
 - [什么是互联网思维](./mdFile/internetThinking.md)
 - [初创公司一年有感](./mdFile/startupCompany.md)
 - [我的工作思维](./mdFile/workThinking.md)
+- [提升认知的总结](./mdFile/cognition.md)
 
 ## javascript
 
