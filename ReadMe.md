@@ -10,6 +10,7 @@
 - [初创公司一年有感](./mdFile/startupCompany.md)
 - [我的工作思维](./mdFile/workThinking.md)
 - [提升认知的总结](./mdFile/cognition.md)
+- [建立高效团队](./mdFile/high-performence-team.md)
 
 ## javascript
 
