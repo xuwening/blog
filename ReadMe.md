@@ -11,6 +11,8 @@
 - [我的工作思维](./mdFile/workThinking.md)
 - [提升认知的总结](./mdFile/cognition.md)
 - [建立高效团队](./mdFile/high-performence-team.md)
+- [关于公司发展的思考](./mdFile/company_growth.md)
+
 
 ## javascript
 
