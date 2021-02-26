@@ -106,3 +106,4 @@
 - [文本编码](./mdFile/textencoding.md)
 - [HTTP协议](./mdFile/HTTP.md)
 - [ETC基础知识](./mdFile/ETC-introduce.md)
+- [公司内部服务外放方案](./mdFile/media/internal-services-expose.png)
