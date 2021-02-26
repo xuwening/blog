@@ -105,4 +105,4 @@
 - [时区问题](./mdFile/timeregion.md)
 - [文本编码](./mdFile/textencoding.md)
 - [HTTP协议](./mdFile/HTTP.md)
-- [ETC基础知识](./ETC-introduce.md)
+- [ETC基础知识](./mdFile/ETC-introduce.md)
