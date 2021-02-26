@@ -12,7 +12,7 @@
 - [提升认知的总结](./mdFile/cognition.md)
 - [建立高效团队](./mdFile/high-performence-team.md)
 - [关于公司发展的思考](./mdFile/company_growth.md)
-
+- [底层思维分享交流PPT](./mdFile/logical-mind.pptx)
 
 ## javascript
 
