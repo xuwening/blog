@@ -14,7 +14,7 @@
 - [关于公司发展的思考](./mdFile/company_growth.md)
 - [底层思维分享交流PPT](./mdFile/logical-mind.pptx)
 - [小米哲学读后感](./mdFile/xiaomiTinking.md)
-
+- [职业规划的一些建议](./mdFile/careerPlanning.md)
 
 ## javascript
 
